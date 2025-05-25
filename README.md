@@ -18,7 +18,7 @@ A modern React (TypeScript) client for a full-stack blood donation platform.
 
 ## 🏗️ Project Structure
 
-src/
+``` src/
 ├── components/
 ├── pages/
 ├── layouts/
@@ -31,8 +31,7 @@ src/
 ├── App.tsx
 ├── AppRoutes.tsx
 ├── index.tsx / main.tsx
-
-
+```
 ---
 
 ## 🛠️ Getting Started
